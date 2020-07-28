@@ -21,5 +21,5 @@ def count_primes_in_list(numbers):
     return len(primes)
 
 
-z = [4, 5, 6, 7, 8, 9, 10]
+z = [0,4, 5, 6, 7, 8, 9, 10]
 print (count_primes_in_list(z))
